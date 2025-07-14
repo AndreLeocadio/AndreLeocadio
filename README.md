@@ -1,9 +1,12 @@
-## Hi there 👋
+# Ola! Eu sou André Leocádio Ribeiro
+<div>
+  <a href="https://github.com/andreleocadio">
+  <img height="180em" src="https://github-readme-status.vercel.app/api/username=andreleocadio&show_icons=true&theme=dark>
+</div>
 
-<!--
-**AndreLeocadio/AndreLeocadio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+
+
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
