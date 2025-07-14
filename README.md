@@ -1,7 +1,8 @@
 # Ola! Eu sou André Leocádio Ribeiro
 <div>
   <a href="https://github.com/andreleocadio">
-  <img height="180em" src="https://github-readme-status.vercel.app/api/username=andreleocadio&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-status.vercel.app/api?username=andreleocadio&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-status.vercel.app/api/top-langs?username=andreleocadio&layout=compact&langs_count=16&theme=dark"/>
 </div>
 
 
